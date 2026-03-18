@@ -1,0 +1,3 @@
+This code can be ran by downloading the Unity Game Engine (Version LTS 6.3) and running it in the editor.
+
+Currently this is a very simple game where you try to return as many volleyballs as you can by running into them before they hit the ground.
